@@ -1,4 +1,9 @@
 {
+  "require": {
+    "mindscape/raygun4php": "^2.0"
+  }
+}
+{
     "name": "php-di/demo",
     "license": "MIT",
     "type": "project",
